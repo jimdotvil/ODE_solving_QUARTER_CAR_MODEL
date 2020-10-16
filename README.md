@@ -1,5 +1,7 @@
 # quarter-car-model-ode-solving-methods
-quarter car model analysis with ode solving methods (Heun, RK4, Euler, Midpoint)
 
-**made in MatLab
-**open programin.m to run
+Quarter car model analysis with ODE solving methods (Heun, RK4, Euler, Midpoint)
+
+**Made in MatLab
+
+**Open programin.m to run
